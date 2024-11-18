@@ -3,7 +3,7 @@
 The primary objective of the Details Dashboard is to provide a comprehensive and user-friendly interface for accessing vital loan data. It will serve as a one-stop solution for users seeking detailed insights into our loan portfolio, borrower profiles, and loan performance.
 
 <h1>Dashboard Preview:</h1>
-<img src="![Screenshot (105)](https://github.com/user-attachments/assets/0fccff7d-2c0c-40d6-93bd-4f80e0d5b677)">
+![Screenshot (105)](https://github.com/user-attachments/assets/0fccff7d-2c0c-40d6-93bd-4f80e0d5b677)
 
 
 <h1>Project Overview:</h1>
